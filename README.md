@@ -1,2 +1,2 @@
 # Carsale
-java mini project for jp-2
+# It is a Car Sell Application in Java
